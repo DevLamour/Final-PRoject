@@ -9,7 +9,7 @@ export const workoutData = [
     id: 2,
     name: "Jump-squats",
     description: "Do 3 sets of 12 jump-squats",
-    gif: "/assets/Jump-squat.gif",
+    gif: "/assets/Jumpsquat.gif",
   },
   {
     id: 3,
@@ -29,25 +29,24 @@ export const workoutData = [
     description: "Do 3 sets of 8 burpees",
     gif: "/assets/Burpees.gif",
   },
-  // {
-  //   id: 6,
-  //   name: "Mountain Climbers",
-  //   description: "Do 3 sets of 20 mountain climbers",
-  //   gif: "mountain_climbers.gif",
-  // },
-  // {
-  //   id: 7,
-  //   name: "Jumping Jacks",
-  //   description: "Do 3 sets of 15 jumping jacks",
-  //   gif: "jumping_jacks.gif",
-  // },
-  // {
-  //   id: 8,
-  //   name: "Bicycle Crunches",
-  //   description: "Do 3 sets of 20 bicycle crunches",
-  //   gif: "bicycle_crunches.gif",
-  // },
-  // Add more workout items here
+  {
+    id: 6,
+    name: "Mountain Climbers",
+    description: "Do 3 sets of 20 mountain climbers",
+    gif: "mountain_climbers.gif",
+  },
+  {
+    id: 7,
+    name: "Jumping Jacks",
+    description: "Do 3 sets of 15 jumping jacks",
+    gif: "jumping-jack.gif",
+  },
+  {
+    id: 8,
+    name: "Bicycle Crunches",
+    description: "Do 3 sets of 20 bicycle crunches",
+    gif: "bicycle_crunches.gif",
+  },
 ];
 
 export const waterData = [

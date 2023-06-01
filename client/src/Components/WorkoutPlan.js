@@ -122,19 +122,19 @@ const WorkoutPlan = () => {
     switch (workoutName) {
       case "Burpees":
         return burpeesGif;
-      case "Pushup":
+      case "Push-ups":
         return pushupGif;
       case "Plank":
         return plankGif;
       case "Lunges":
         return lungesGif;
-      case "Jump Squat":
+      case "Jump-squats":
         return jumpsquatGif;
       case "Mountain Climbers":
         return mountainclimbersGif;
-      case "Bike Crunches":
+      case "Bicycle Crunches":
         return bikecrunchesGif;
-      case "Jumping Jack":
+      case "Jumping Jacks":
         return jumpingjackGif;
       default:
         return "";
