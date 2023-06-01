@@ -13,10 +13,6 @@ const App = () => {
   const [isLoggedIn, setIsLoggedIn] = useState(false);
 
   const handleLogin = (formData) => {
-    // Perform login logic here (e.g., validate credentials)
-    // Set isLoggedIn state based on the login result
-
-    // For demonstration purposes, let's assume the login is successful
     setIsLoggedIn(true);
   };
 

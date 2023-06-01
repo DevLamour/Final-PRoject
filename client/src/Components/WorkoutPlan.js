@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import styled from "styled-components";
 import { FiTrash2, FiEdit } from "react-icons/fi";
 import burpeesGif from "../assets/Burpees.gif";
